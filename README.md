@@ -1,8 +1,8 @@
 # Quick Start Guide
 
-This repo includes the codes for the video on animating an object vetices in Threejs using custom shaders. The **Final** branch has the final codea for the Youtube tutorial below:
+This repo includes the code for the video on introduction to particles in threejs:
 
-https://youtu.be/VwSRizyr1pI
+https://youtu.be/DiEbXEApDas
 
 Download or clone the project on your local drive. Open Terminal (Command prompt) and navigate to the project folder. Then run ```npm install```. You should see a new folder called **node_modules** in the project folder.
 
